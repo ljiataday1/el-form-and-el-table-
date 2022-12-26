@@ -1,6 +1,6 @@
-# macvue
+# vue2 project
 
-> the mac first vue project
+> the first vue project
 
 ## Build Setup
 
